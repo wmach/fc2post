@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FC2Post", "FC2Post\FC2Post.csproj", "{B8E6C0A7-9E27-46B8-811A-5E6FF3C29EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SgmlReaderDll9", "..\..\sgmlreader-1.8.6\sgmlreaderdll\SgmlReaderDll9.csproj", "{499527FF-AE52-450F-B3E3-4AD53E1712AD}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccProjectName0 = \u0022$/FC2Post/FC2Post.root/FC2Post\u0022,\u0020KBAAAAAA
+		SccLocalPath0 = ..\\..
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectFilePathRelativizedFromConnection0 = project\\FC2Post\\
+		SccProjectUniqueName1 = FC2Post\\FC2Post.csproj
+		SccLocalPath1 = ..\\..
+		SccProjectFilePathRelativizedFromConnection1 = project\\FC2Post\\FC2Post\\
+		SccProjectUniqueName2 = ..\\..\\sgmlreader-1.8.6\\sgmlreaderdll\\SgmlReaderDll9.csproj
+		SccLocalPath2 = ..\\..
+		SccProjectFilePathRelativizedFromConnection2 = sgmlreader-1.8.6\\sgmlreaderdll\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E6C0A7-9E27-46B8-811A-5E6FF3C29EDC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E6C0A7-9E27-46B8-811A-5E6FF3C29EDC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{B8E6C0A7-9E27-46B8-811A-5E6FF3C29EDC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E6C0A7-9E27-46B8-811A-5E6FF3C29EDC}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{499527FF-AE52-450F-B3E3-4AD53E1712AD}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{499527FF-AE52-450F-B3E3-4AD53E1712AD}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{499527FF-AE52-450F-B3E3-4AD53E1712AD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{499527FF-AE52-450F-B3E3-4AD53E1712AD}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
