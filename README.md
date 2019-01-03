@@ -1,5 +1,5 @@
 # 動画付きFC2ブログ自動投稿システム
-![ブログマネージャー](https://github.com/wmach/fc2post/blob/master/ahiru_u.png)
+![動画記事FC2投稿 あひるU](https://github.com/wmach/fc2post/blob/master/ahiru_u.png)
 
 1. 指定したキーワードでライブドアニュース、Yahoo! 知恵袋、Youtube からコンテンツを取得します。
 2. 取得したコンテンツにリライトして自分のブログの記事を作成します。
@@ -12,5 +12,5 @@
 - また、自分の投稿する記事をジャンルごとに管理できます。
 
 ## 投稿ブログ管理画面
-![ブログマナージャー](https://github.com/wmach/fc2post/blob/master/blogmanager.png)
+![ブログマネージャー](https://github.com/wmach/fc2post/blob/master/blogmanager.png)
 
