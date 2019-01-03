@@ -1,5 +1,7 @@
 ## FC2 Blog Posting automatically
 ### Auto-post system for FC2 blog with embedding video
+![Blog Posting Duck U](https://github.com/wmach/fc2post/blob/master/ahiru_u.png)
+
 1. Get contents from Livedoor News, Yahoo Answers and YouTube by designated key words.
 2. Create articles of your own blog by rewriting in acquired contents.
 3. Embed acquired YouTube video in a created blog article.
@@ -9,4 +11,6 @@
 - Users who post to FC2 blog can manage collectively by registering multiple items.
 - You can also manage each genre of articles to post. 
 
-Management portal of blog posts
+## Management portal of blog posts
+![Blog Manager](https://github.com/wmach/fc2post/blob/master/blogmanager.png)
+
